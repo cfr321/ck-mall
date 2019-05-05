@@ -44,12 +44,18 @@ public class SpecificationController {
         return ResponseEntity.status(HttpStatus.OK).build();
     }
     /**
-     * 根据组id查询 组下的所有参数
-     * 后面1、2、3、4,分别为参数的 查、增、删、改。
+     *
+     * @param gid
+     * @param cid
+     * @param searching
+     * @return
      */
     @GetMapping("params")
-    public ResponseEntity<List<SpecParam>> queryParamByGid(@RequestParam("gid") Long gid){
-        return ResponseEntity.ok(specService.queryParamByGid(gid));
+    public ResponseEntity<List<SpecParam>> queryParamList(
+            @RequestParam(value = "gid",required = false) Long gid,
+            @RequestParam(value = "cid",required = false) Long cid,
+            @RequestParam(value = "searching",required = false) boolean searching){
+        return ResponseEntity.ok(specService.queryParamList(gid,cid,searching));
     }
     @PostMapping("param")
     public ResponseEntity<Void>  saveParam(@RequestBody SpecParam specParam){

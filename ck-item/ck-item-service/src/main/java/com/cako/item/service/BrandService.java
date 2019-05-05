@@ -115,4 +115,12 @@ public class BrandService {
             throw new CkException(ExceptionEnum.DELETE_BRAND_ERROR);
         }
     }
+
+    public List<Brand> queryBrandByCid(Long cid) {
+        List<Brand> list = brandMapper.queryBrandByCid(cid);
+        if(CollectionUtils.isEmpty(list)){
+            throw new CkException(ExceptionEnum.BRAND_NOT_FOUND);
+        }
+        return list;
+    }
 }

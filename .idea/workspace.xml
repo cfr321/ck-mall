@@ -4,7 +4,26 @@
     <bookmark url="file://$PROJECT_DIR$/ck-registry/pom.xml" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec8eb2b7-9f0d-40ac-8de5-74bb2fd741f1" name="Default Changelist" comment="" />
+    <list default="true" id="ec8eb2b7-9f0d-40ac-8de5-74bb2fd741f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/Spu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpuBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpuDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/GoodController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/BrandMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/BrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/SpecificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/SpecificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/BrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/SpecificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/SpecificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/mapper/BrandMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/mapper/BrandMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/service/BrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/service/SpecificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/service/SpecificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/web/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/web/BrandController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/web/SpecificationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ck-item/ck-item-service/target/classes/com/cako/item/web/SpecificationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/service/UploadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/service/UploadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-upload/src/test/java/com/cako/upload/FdfsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-upload/target/classes/com/cako/uplaod/service/UploadService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ck-upload/target/classes/com/cako/uplaod/service/UploadService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-upload/target/test-classes/com/cako/upload/FdfsTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ck-registry/target/" />
@@ -26,61 +45,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/service/UploadService.java">
+        <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/GoodController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/CkItemService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ck-upload/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/config/UploadProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ck-upload/src/test/java/com/cako/upload/FdfsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="24" column="46" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -97,13 +65,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ck-gateway/src/main/java/com/cako/CkGateway.java" />
-        <option value="$PROJECT_DIR$/ck-registry/src/main/java/com/calo/CkRegistry.java" />
-        <option value="$PROJECT_DIR$/ck-common/src/main/java/com/cako/utils/NumberUtils.java" />
-        <option value="$PROJECT_DIR$/ck-common/src/main/java/com/cako/utils/CookieUtils.java" />
         <option value="$PROJECT_DIR$/ck-common/src/main/java/com/cako/utils/JsonUtils.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/Item.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/ItemService.java" />
@@ -130,18 +101,13 @@
         <option value="$PROJECT_DIR$/ck-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/CategoryMapper.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/CategotyService.java" />
-        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/BrandMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/Doma02.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/CategoryController.java" />
-        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/BrandService.java" />
-        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/BrandController.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpecGroup.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/SpecGroupMapper.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/SpecParamMapper.java" />
         <option value="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpecParam.java" />
         <option value="$PROJECT_DIR$/ck-common/src/main/java/com/cako/enums/ExceptionEnum.java" />
-        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/SpecificationService.java" />
-        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/SpecificationController.java" />
         <option value="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/web/UploadService.java" />
         <option value="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/web/UploadController.java" />
         <option value="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/config/FastClientImporter.java" />
@@ -151,6 +117,15 @@
         <option value="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/config/UploadProperties.java" />
         <option value="$PROJECT_DIR$/ck-upload/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/service/UploadService.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/BrandController.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/Spu.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpuDetail.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpuBo.java" />
+        <option value="$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/GoodController.java" />
       </list>
     </option>
   </component>
@@ -173,10 +148,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="607" />
+    <option name="width" value="784" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -185,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,12 +171,169 @@
               <item name="cako" type="b2602c69:ProjectViewProjectNode" />
               <item name="cako" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cako" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cako" type="462c0819:PsiDirectoryNode" />
+              <item name="ck-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +354,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -366,7 +502,8 @@
       <workItem from="1556437261415" duration="9771000" />
       <workItem from="1556527599248" duration="19427000" />
       <workItem from="1556678762559" duration="23733000" />
-      <workItem from="1556851025978" duration="5796000" />
+      <workItem from="1556851025978" duration="11344000" />
+      <workItem from="1557058095976" duration="2610000" />
     </task>
     <servers />
   </component>
@@ -388,12 +525,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81868000" />
+    <option name="totallyTimeSpent" value="90026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18096514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -407,14 +545,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991204" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.5387994" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.5381232" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.7155425" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329429" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.043923866" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.14369501" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,22 +567,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ck-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/test/java/com/cako/item/service/CategotyServiceTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/test/java/com/cako/item/service/UserServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/ck-common/src/main/java/com/cako/utils/JsonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -573,16 +695,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Doma02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Doma02.java" />
     <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/CategoryMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -597,16 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/BrandMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,60 +764,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/SpecificationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#queryGroupByCid#0;class#SpecificationService#0" />
-            <element signature="method#updateGroup#0;class#SpecificationService#0" />
-            <element signature="method#saveGroup#0;class#SpecificationService#0" />
-            <element signature="method#deledeGroup#0;class#SpecificationService#0" />
-            <element signature="method#queryParamByGid#0;class#SpecificationService#0" />
-            <element signature="method#saveParam#0;class#SpecificationService#0" />
-            <element signature="method#deleteParam#0;class#SpecificationService#0" />
-            <element signature="e#3008#3086#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/SpecificationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="54" column="77" selection-start-line="54" selection-start-column="77" selection-end-line="54" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/BrandService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
-          <folding>
-            <element signature="method#queryBrandByPage#0;class#BrandService#0" />
-            <element signature="method#updataBrand#0;class#BrandService#0" />
-            <element signature="method#deleteBrand#0;class#BrandService#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/SpecParamMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpecParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -727,18 +780,6 @@
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/BrandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="51" column="46" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#queryBrandByPage#0;class#BrandController#0" />
-            <element signature="docComment;method#savaBrand#0;class#BrandController#0" />
           </folding>
         </state>
       </provider>
@@ -763,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ck-upload/src/main/java/com/cako/CkUploadApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -777,13 +811,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-upload/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="788">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -806,18 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/CkItemService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="270">
           <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ck-upload/src/test/java/com/cako/upload/FdfsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="24" column="46" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -833,22 +850,136 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/config/UploadProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
+        <state relative-caret-position="150">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ck-upload/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
+        <state relative-caret-position="302">
           <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ck-upload/src/main/java/com/cako/uplaod/service/UploadService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        <state relative-caret-position="360">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-upload/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-upload/src/test/java/com/cako/upload/FdfsTest.java" />
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="62" column="55" selection-start-line="62" selection-start-column="55" selection-end-line="62" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#queryBrandByPage#0;class#BrandController#0" />
+            <element signature="docComment;method#savaBrand#0;class#BrandController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="107" column="23" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+          <folding>
+            <element signature="method#queryBrandByPage#0;class#BrandService#0" />
+            <element signature="method#deleteBrand#0;class#BrandService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/service/SpecificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+          <folding>
+            <element signature="method#updateGroup#0;class#SpecificationService#0" />
+            <element signature="method#saveGroup#0;class#SpecificationService#0" />
+            <element signature="method#deledeGroup#0;class#SpecificationService#0" />
+            <element signature="method#saveParam#0;class#SpecificationService#0" />
+            <element signature="method#deleteParam#0;class#SpecificationService#0" />
+            <element signature="e#3008#3086#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpecParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/Spu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpuDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-interface/src/main/java/com/cako/item/pojo/SpuBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/SpecificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ck-item/ck-item-service/src/main/java/com/cako/item/web/GoodController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
