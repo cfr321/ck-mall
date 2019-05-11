@@ -9,12 +9,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * 商品类型Service
  */
 @Service
-public class CategotyService {
+public class CategoryService {
     @Autowired
     private CategoryMapper categoryMapper;
 
@@ -36,5 +37,8 @@ public class CategotyService {
             throw new CkException(ExceptionEnum.CATEGORY_NOT_FOND);
         }
         return categories;
+    }
+    public List<String> queryNameByIds(List<Long> ids) {
+        return this.categoryMapper.selectByIdList(ids).stream().map(Category::getName).collect(Collectors.toList());
     }
 }

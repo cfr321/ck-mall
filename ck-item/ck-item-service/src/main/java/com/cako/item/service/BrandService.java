@@ -32,7 +32,7 @@ public class BrandService {
         PageHelper.startPage(page,rows);
         /**
          * where 'name' like "% x %" or letter=='x'
-         * order by id desc
+         *order by id desc
          */
         Example example = new Example(Brand.class);
         //过滤

@@ -8,6 +8,11 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public enum  ExceptionEnum {
+    GOODS_STOCK_NOT_FOND(404,"商品库存为找到"),
+    GOODS_SKU_NOT_FOUD(404,"商品sku没找到"),
+    GOODS_SAVE_ERROR(500,"商品新增失败"),
+    GOODS_DETAIL_NOT_FOUD(404,"商品信息为找到"),
+
     PRICE_CANNOT_BE_NALL(400,"价格不能为空"),
     CATEGORY_NOT_FOND(404,"商品类别为找到"),
 
